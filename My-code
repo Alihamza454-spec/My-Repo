@@ -1,3 +1,7 @@
 Console.Writeline("enter your name");
 string name = Console.ReadLine();
-Console.Write("My name is "+name);;
+Console.Write("My name is "+name);
+ROll Number
+Console.WeiteLine("Write Your Roll No ?");
+int Roll_no =int.Parse(Console.ReadLine());
+Console.Write("Your roll No is "+Roll_no);
